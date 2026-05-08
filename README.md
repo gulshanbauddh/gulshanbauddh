@@ -38,12 +38,6 @@
 
 ## 🔥 Featured Projects
 
-### 🏠 Nook – Room Rental Platform
-
-* Built using PHP, MySQL, JS
-* User-friendly UI & dynamic data handling
-* Real-world problem solving
-
 ### 📊 Student Registration System
 
 * Dynamic form handling using JS
@@ -63,8 +57,8 @@
 ## 🤝 Connect With Me
 
 * 📧 [gulshanbncet@gmail.com](mailto:gulshanbncet@gmail.com)
-* 💼 LinkedIn: (add later)
-* 🌐 Portfolio: (add later)
+* 💼 LinkedIn: ([<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gulshanbauddh" height="30" width="40" />](https://in.linkedin.com/in/gulshanbauddh))
+* 🌐 Project Access [![Login](https://img.shields.io/badge/Gulshan_Login-23272e?style=for-the-badge&logo=icloud&logoColor=white)](https://gulshanlogin.page.gd/login.php))
 
 ---
 
