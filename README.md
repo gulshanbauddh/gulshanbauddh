@@ -23,9 +23,12 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-eight.vercel.app/api?username=gulshanbauddh&show_icons=true&theme=tokyonight&hide_border=true&1)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gulshanbauddh&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats-eight.vercel.app/api/top-langs/?username=gulshanbauddh&layout=compact&theme=tokyonight&hide_border=true&1)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gulshanbauddh&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gulshanbauddh&theme=tokyonight&hide_border=true)
+---
 
 ## 📈 Contribution Graph
 
